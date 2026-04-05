@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/abemesh/Desktop/abe/build",
+  "command": "/usr/bin/c++   -std=gnu++20 -arch arm64 -o CMakeFiles/abe.dir/src/main.cpp.o -c /Users/abemesh/Desktop/abe/src/main.cpp",
+  "file": "/Users/abemesh/Desktop/abe/src/main.cpp",
+  "output": "CMakeFiles/abe.dir/src/main.cpp.o"
+}
+]
